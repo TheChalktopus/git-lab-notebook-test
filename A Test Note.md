@@ -42,3 +42,7 @@ yes lots of error messages. Decrease to 0.1 minutes.
 
 
 ![](_attachments/Pasted%20image%2020260925230350.png)
+
+
+What about a larger file 
+![](_attachments/IMG_9627.mov)
