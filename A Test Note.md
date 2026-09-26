@@ -12,3 +12,7 @@ Hello again. Hello Again Again.
 Now I will add some more text. Will you also push these changes automatically?
 
 Hello
+
+
+Adding a new image
+![](_attachments/Pasted%20image%2020260925225451.png)
