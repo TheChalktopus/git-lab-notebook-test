@@ -35,8 +35,7 @@
               "title": "A Test Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e4baff162a8f0f2",
+  "active": "27cd9b62078aed8d",
   "lastOpenFiles": [
     "_attachments/IMG_9627.mov",
     "_attachments/Pasted image 20260925230350.png",
