@@ -24,4 +24,11 @@ Adding a new image from my macbook
 Welp obsidian crashed the first time I tried to do that. But let's try to add the image again.
 
 
+<<<<<<< HEAD
 HEllo there I want to create a merge conflict.
+=======
+Let's try to create a merge conflict.
+>>>>>>> origin/main
+
+
+So that was pretty easy. Let's increase the speed at which we do this
