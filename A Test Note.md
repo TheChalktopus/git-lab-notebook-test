@@ -36,7 +36,7 @@ So that was pretty easy. Let's increase the speed at which we do this. Okay so n
 yes lots of error messages. Decrease to 0.1 minutes.
 
 
-
+![](_attachments/Pasted%20image%2020260925230219.png)
 
 
 
