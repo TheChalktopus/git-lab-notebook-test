@@ -1,0 +1,45 @@
+{
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "window:reset-zoom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
+}
