@@ -21,4 +21,4 @@ Adding a new image
 Adding a new image from my macbook
 ![1181](_attachments/Pasted%20image%2020260925225643.png)
 
-Welp obsidian crashed the first time I tried to do that. But 
+Welp obsidian crashed the first time I tried to do that. But let's try to add the image again.
