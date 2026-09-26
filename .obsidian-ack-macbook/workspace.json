@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "A Test Note"
             }
+          },
+          {
+            "id": "9856ba250aee94c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27cd9b62078aed8d",
+  "active": "9856ba250aee94c1",
   "lastOpenFiles": [
+    "A Test Folder/another note.md",
     "_attachments/Pasted image 20260925225451.png",
     "A Test Note.md",
     "_attachments/IMG_9627.mov",
@@ -222,7 +234,6 @@
     "_attachments/Pasted image 20260925230219.png",
     "conflict-files-obsidian-git.md",
     "_attachments/Pasted image 20260925225643.png",
-    "A Test Folder/another note.md",
     "A Test Folder/An Example doc.docx",
     "_attachments/Pasted image 20260925220423.png",
     "Welcome.md",
