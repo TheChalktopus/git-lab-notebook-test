@@ -33,7 +33,7 @@ Let's try to create a merge conflict.
 Okay I fix this by just saying commit all?
 So that was pretty easy. Let's increase the speed at which we do this. Okay so now we are commit and pushing every 0.01 seconds. That feels not so good.
 
-yes lots of error messages
+yes lots of error messages. 
 
 
 
