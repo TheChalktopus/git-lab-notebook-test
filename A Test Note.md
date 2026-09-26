@@ -31,4 +31,4 @@ Let's try to create a merge conflict.
 >>>>>>> origin/main
 
 
-So that was pretty easy. Let's increase the speed at which we do this. Okay so now we
+So that was pretty easy. Let's increase the speed at which we do this. Okay so now we are commit and pushing every
