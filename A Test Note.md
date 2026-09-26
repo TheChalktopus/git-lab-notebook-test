@@ -15,4 +15,7 @@ Hello
 
 
 Adding a new image
-![](_attachments/Pasted%20image%2020260925225451.png)
+![478](_attachments/Pasted%20image%2020260925225451.png)
+
+
+Adding a new image from my macbook
