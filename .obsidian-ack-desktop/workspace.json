@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9ec2e4681c9a262e",
+    "id": "06b07d2416433324",
     "type": "split",
     "children": [
       {
-        "id": "22f69fccd1231df4",
+        "id": "42e61a9b74d8947c",
         "type": "tabs",
         "children": [
           {
-            "id": "d220cd6087d84a10",
+            "id": "27cd9b62078aed8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db43a117d3abe504",
+    "id": "cdb6fc7bec66be4e",
     "type": "split",
     "children": [
       {
-        "id": "b6dd52be1a8ea6af",
+        "id": "b72f55b88e547592",
         "type": "tabs",
         "children": [
           {
-            "id": "a137a5c308ad9898",
+            "id": "bd72c62f6210d8ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "e2fef888e680f6f4",
+            "id": "5aeed2b8a18e37b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "186b3442404ab0e9",
+            "id": "918ea8a28bf7f4e2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,19 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "110be3b9eab64e01",
+    "id": "0cd0e86f2599ad58",
     "type": "split",
     "children": [
       {
-        "id": "de2bb337e758caa8",
+        "id": "089ad4700ea50751",
         "type": "tabs",
         "children": [
           {
-            "id": "c165874ee40d4273",
+            "id": "43756b8c6317f8af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +113,12 @@
             }
           },
           {
-            "id": "63d98150fe956f0b",
+            "id": "5238ddc7714271ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +127,7 @@
             }
           },
           {
-            "id": "6ffd59201d68e182",
+            "id": "3d74117e31d52f4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +142,7 @@
             }
           },
           {
-            "id": "dd6fd32c36c36e9f",
+            "id": "b8a14a538ed1c9fc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,11 +156,12 @@
             }
           },
           {
-            "id": "347605e5002ca889",
+            "id": "5fed57174ae22823",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "A Test Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,8 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2d3276123ab40f60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,17 +190,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d220cd6087d84a10",
+  "active": "27cd9b62078aed8d",
   "lastOpenFiles": [
-    "Welcome.md"
+    "A Test Folder/another note.md",
+    "A Test Folder/An Example doc.docx",
+    "_attachments/Pasted image 20260925220423.png",
+    "A Test Note.md",
+    "Welcome.md",
+    "_attachments/An Example doc.png",
+    "A Test Folder/An Example doc.md",
+    "_attachments/An Example doc 11.png",
+    "_attachments/An Example doc 10.png",
+    "_attachments/An Example doc 9.png",
+    "_attachments/An Example doc 8.png",
+    "_attachments/An Example doc 7.png",
+    "_attachments/An Example doc 6.png",
+    "A Test Folder/~$ Example doc.docx",
+    "_attachments/An Example doc 5.png",
+    "_attachments/An Example doc 4.png",
+    "_attachments",
+    "A Test Folder"
   ]
 }

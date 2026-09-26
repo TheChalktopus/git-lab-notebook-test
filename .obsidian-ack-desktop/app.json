@@ -1,0 +1,21 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "_attachments",
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "openBehavior": "",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "autoConvertHtml": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
