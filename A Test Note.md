@@ -5,3 +5,6 @@ Ooh look a plot!
 
 
 I am adding some more text. Will you please update?
+
+
+Now I will add some more text. Will you also push these changes automatically?
