@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "42e61a9b74d8947c",
+        "id": "fec3d73ed1e5c0a0",
         "type": "tabs",
         "children": [
           {
-            "id": "27cd9b62078aed8d",
+            "id": "72a2695fc069fa48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Test Folder/another note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "another note"
-            }
-          },
-          {
-            "id": "9e4baff162a8f0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Test Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Test Note"
-            }
-          },
-          {
-            "id": "9856ba250aee94c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Test Folder/another note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "another note"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9856ba250aee94c1",
+  "active": "72a2695fc069fa48",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20260925232750.png",
     "A Test Folder/another note.md",
-    "_attachments/Pasted image 20260925225451.png",
     "A Test Note.md",
+    "_attachments/Pasted image 20260925232750.png",
+    "_attachments/Pasted image 20260925225451.png",
     "_attachments/IMG_9627.mov",
     "_attachments/Pasted image 20260925230350.png",
     "_attachments/Pasted image 20260925230219.png",
@@ -247,7 +214,6 @@
     "_attachments/An Example doc 11.png",
     "_attachments/An Example doc 10.png",
     "_attachments/An Example doc 9.png",
-    "_attachments/An Example doc 8.png",
     "A Test Folder/~$ Example doc.docx",
     "_attachments",
     "A Test Folder"
