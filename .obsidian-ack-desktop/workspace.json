@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Test Folder/another note.md",
+                "file": "A Test Folder 1/another note.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0cd0e86f2599ad58",
@@ -212,14 +213,16 @@
   "active": "27cd9b62078aed8d",
   "lastOpenFiles": [
     "A Test Note.md",
+    "A Test Folder 1/another note.md",
     "_attachments/Pasted image 20260925232750.png",
+    "A Test Folder/another note.md",
+    "A Test Folder 1",
     "_attachments/IMG_9627.mov",
     "_attachments/Pasted image 20260925230350.png",
     "_attachments/Pasted image 20260925230219.png",
     "_attachments/Pasted image 20260925225643.png",
     "_attachments/Pasted image 20260925225451.png",
     "_attachments/Pasted image 20260925220423.png",
-    "A Test Folder/another note.md",
     "A Test Folder/An Example doc.docx",
     "Welcome.md",
     "_attachments/An Example doc.png",

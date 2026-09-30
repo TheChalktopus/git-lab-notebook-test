@@ -6,7 +6,6 @@
     {
       "path": "_attachments",
       "guid": "03a8ff89-edfb-4186-b2a7-09423b48e29e",
-      "relay": "5b9a5c50-2e3d-4869-bd66-8a2006afaa3b",
       "sync": {
         "canvas": true,
         "bases": true,
@@ -18,8 +17,8 @@
       }
     },
     {
-      "path": "A Test Folder",
-      "guid": "746e58f1-251d-4c68-b608-8043c1c2677d",
+      "path": "A Test Folder 1",
+      "guid": "2bdbef66-31f6-46a2-b6a7-650b8f7bf059",
       "relay": "5b9a5c50-2e3d-4869-bd66-8a2006afaa3b",
       "sync": {
         "canvas": true,
@@ -29,7 +28,13 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      }
+      },
+      "remoteActivity": [
+        {
+          "guid": "464b5f23-6106-4e2f-afe2-68d7ddbb6561",
+          "timestamp": 1790728769105
+        }
+      ]
     }
   ],
   "endpoints": {},
