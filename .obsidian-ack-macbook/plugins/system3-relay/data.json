@@ -29,7 +29,13 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      }
+      },
+      "remoteActivity": [
+        {
+          "guid": "464b5f23-6106-4e2f-afe2-68d7ddbb6561",
+          "timestamp": 1790729386045
+        }
+      ]
     }
   ],
   "endpoints": {},
