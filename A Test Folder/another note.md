@@ -4,6 +4,7 @@ Uh oh some more errors when just sitting here. It does seem like the resolve the
 ![](../_attachments/Pasted%20image%2020260925232750.png)
 
 More notes let's try again. Hello there. Hello I 
+ server 
 
 
 Hello 
