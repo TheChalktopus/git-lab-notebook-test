@@ -10,4 +10,4 @@ More notes let's try again. Hello there. Hello I
 so I don't seem to be on the server server 
 
 
-Hello 
+Hello. ![](../_attachments/Pasted%20image%2020260929204524.png)
