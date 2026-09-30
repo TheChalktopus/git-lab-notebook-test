@@ -179,6 +179,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "aad1b0fd152aa6ea",
+            "type": "leaf",
+            "state": {
+              "type": "system3-sync-status",
+              "state": {},
+              "icon": "satellite",
+              "title": "Sync status"
+            }
           }
         ],
         "currentTab": 5
@@ -196,7 +206,8 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false
     }
   },
   "active": "27cd9b62078aed8d",
