@@ -16,6 +16,20 @@
         "pdfs": true,
         "otherTypes": false
       }
+    },
+    {
+      "path": "A Test Folder",
+      "guid": "746e58f1-251d-4c68-b608-8043c1c2677d",
+      "relay": "5b9a5c50-2e3d-4869-bd66-8a2006afaa3b",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
   "endpoints": {},
