@@ -2,7 +2,22 @@
   "release": {
     "channel": "stable"
   },
-  "sharedFolders": [],
+  "sharedFolders": [
+    {
+      "path": "_attachments",
+      "guid": "03a8ff89-edfb-4186-b2a7-09423b48e29e",
+      "relay": "5b9a5c50-2e3d-4869-bd66-8a2006afaa3b",
+      "sync": {
+        "canvas": true,
+        "bases": true,
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
   "endpoints": {},
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
