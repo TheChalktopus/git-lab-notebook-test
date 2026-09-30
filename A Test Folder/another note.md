@@ -6,8 +6,13 @@ Uh oh some more errors when just sitting here. It does seem like the resolve the
 More notes let's try again. Hello there. Hello I 
 
 
-
 so I don't seem to be on the server server 
 
 
-Hello. ![](../_attachments/Pasted%20image%2020260929204524.png)
+Hello. I would like to add some text![](../_attachments/Pasted%20image%2020260929204524.png)
+
+
+
+
+
+I want to try some more offline stuffSo I try to go offline.
